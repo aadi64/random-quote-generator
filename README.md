@@ -21,7 +21,7 @@ A beautiful Flutter app that generates random quotes with a clean and simple UI.
 
 📸 Screenshots
 
-![App Screenshot](ss1.png)
+![App Screenshot](ss1.jpg)
 
 ---
 
